@@ -9,6 +9,8 @@
 <c:url value="/add" var="add"/>
 <a href="${add}">Add new lesson</a>
 
+    <b>Hello World!</b>
+
 <h2>Lessons</h2>
 <table>
     <tr>
