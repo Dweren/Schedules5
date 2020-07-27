@@ -10,6 +10,7 @@
 <a href="${add}">Add new lesson</a>
 
     <b>Hello World!</b>
+    <b>Test</b>
 
 <h2>Lessons</h2>
 <table>
